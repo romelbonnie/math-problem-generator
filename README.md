@@ -154,6 +154,12 @@ When submitting your assessment, provide:
    SUPABASE_ANON_KEY: [Your Supabase Anon Key]
    ```
 
+These are my Supabase Credentials:
+```
+SUPABASE_URL: https://jbgnqouemonixwkrggsl.supabase.co
+SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpiZ25xb3VlbW9uaXh3a3JnZ3NsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA3NDE3OTQsImV4cCI6MjA3NjMxNzc5NH0.71iDUQawZLupm4Gr8jjNJu11TLk5PxYxECtfIECfFaM
+```
+
 ## Implementation Notes
 
 _Please fill in this section with any important notes about your implementation, design decisions, challenges faced, or features you're particularly proud of._
